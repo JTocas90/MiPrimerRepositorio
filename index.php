@@ -1,4 +1,4 @@
 <?php
     echo 'Hola';
-    echo 'Que tal';
+    echo 'Que tal que dices';
 ?>
